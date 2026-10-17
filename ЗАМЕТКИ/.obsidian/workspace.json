@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6ca0f7906dc05367",
+        "id": "89409d672fca3141",
         "type": "tabs",
         "children": [
           {
-            "id": "82d35e5945628d6e",
+            "id": "c6c8ee8f84bd7aeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Добро пожаловать.md",
+                "file": "ML/Градиентный_спуск_конспект.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Добро пожаловать"
-            }
-          },
-          {
-            "id": "8300ca8fd5ff7319",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Что поизучать?/ML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ML"
+              "title": "Градиентный_спуск_конспект"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,11 +188,12 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "de43830c15368824",
+  "active": "c6c8ee8f84bd7aeb",
   "lastOpenFiles": [
+    "ML/ЧТО ПОЧИТАТЬ.md",
     "Добро пожаловать.md",
-    "Что поизучать?/ML.md",
-    "Без названия",
+    "ML",
+    "ML/Градиентный_спуск_конспект.md",
     "Что поизучать?"
   ]
 }
