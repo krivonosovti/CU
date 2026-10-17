@@ -9,6 +9,7 @@ Desktop.ini
 # Local IDE settings and editor temporary files
 .idea/
 .vscode/
+.nessy/
 *.swp
 *.swo
 *~
